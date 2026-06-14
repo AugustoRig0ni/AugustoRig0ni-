@@ -26,9 +26,10 @@ Automatizando o que pode ser automatizado, desde Tubarão, SC 🇧🇷
 ## 📌 O que eu faço
 
 - 🔧 Scripts Shell para automação e manutenção de sistemas
+- 🔍 Troubleshooting de sistemas ERP, banco de dados e redes
 - 🗄️ Backup e monitoramento de infraestrutura
 - 🌐 Desenvolvimento de sistemas web internos
-- ⚙️ Atualmente: Infra na **Trier**
+- ⚙️ Atualmente: Analista de Suporte & Help Desk na Trier
 
 ---
 
